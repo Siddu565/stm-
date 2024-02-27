@@ -5,10 +5,11 @@
     </li> 
 </ol> 
 
-   APPLICATION FUNCTIONALITIES
+   <pr> APPLICATION FUNCTIONALITIES
     SEVERAL STATES
-    <pr>For example let us look in to net banking software <br>
-    when you visit a site you can see a login details </pr>
+    For example let us look in to net banking software <br>
+    when you visit a site you can see a login details 
+    </pr>
 
     <style>
         img{ 
