@@ -5,12 +5,12 @@
     </li> 
 </ol> 
 
-   <pr> APPLICATION FUNCTIONALITIES
-    SEVERAL STATES
+   <pr> APPLICATION FUNCTIONALITIES <br>
+    SEVERAL STATES <br>
     For example let us look in to net banking software <br>
     when you visit a site you can see a login details 
     </pr>
-
+<body>
     <style>
         img{ 
           width:50%;
@@ -21,7 +21,7 @@
       height:10vh
       }
       </style>
-    
+</body>
     <div> 
         <img src="sbi.png"alt>
         </div>
@@ -32,6 +32,7 @@
     WRONG PASSWORD <br>
     ACCOUNT LOCKED </pr>
     <style>
+    
   img{ 
     width:50%;
 }
